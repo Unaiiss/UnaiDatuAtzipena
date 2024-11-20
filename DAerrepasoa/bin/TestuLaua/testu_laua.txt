@@ -1,0 +1,4 @@
+Hau FileWriter erabiliz idatzitako adibidea da.
+Idazketa bakoitza zuzenean fitxategira doa.
+Hau BufferedWriter erabiliz idatzitako adibidea da.
+Eraginkortasuna hobetzeko bufer bat erabiltzen du.

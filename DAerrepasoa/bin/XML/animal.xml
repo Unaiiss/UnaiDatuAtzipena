@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<animal tipo="mamifero">
+	<nombre>Elefante</nombre>
+	<edad>10</edad>
+	<habitat>Selva</habitat>
+</animal>

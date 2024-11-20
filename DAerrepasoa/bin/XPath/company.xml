@@ -1,0 +1,27 @@
+<company>
+    <employee id="1">
+        <name>Juan Pérez</name>
+        <position>Desarrollador</position>
+        <salary>50000</salary>
+    </employee>
+    <employee id="2">
+        <name>Ana Gómez</name>
+        <position>Diseñadora</position>
+        <salary>45000</salary>
+    </employee>
+    <employee id="3">
+        <name>Carlos Ruiz</name>
+        <position>Gerente</position>
+        <salary>75000</salary>
+    </employee>
+    <employee id="4">
+        <name>Maria López</name>
+        <position>Analista</position>
+        <salary>40000</salary>
+    </employee>
+    <employee id="5">
+        <name>Pedro Fernández</name>
+        <position>Desarrollador</position>
+        <salary>48000</salary>
+    </employee>
+</company>
